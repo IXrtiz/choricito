@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35423481/README.md)
 # Choricito
 
 Robot torito en 3D (Three.js) con diseño infantil, basado en el modelo de LEGO EV3.
